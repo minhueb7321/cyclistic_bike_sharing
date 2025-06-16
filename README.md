@@ -64,3 +64,7 @@ Launch a Weekend-Only Membership Plan to attract weekend casual riders.
 Create targeted promotions for weekday casual riders, highlighting potential savings from converting to membership.
 
 Develop a loyalty program for frequent casual riders to gradually nudge them toward membership.
+
+🚀 Outcome
+
+This project showcases my ability to clean large datasets, extract meaningful business insights, and communicate recommendations effectively — key competencies for any data analyst role.
